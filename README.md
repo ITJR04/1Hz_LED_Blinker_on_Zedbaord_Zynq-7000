@@ -1,2 +1,2 @@
 # FPGA-programming-projects
-My projects for FPGA programming using VHDL
+This entire repository will be used for my various projects I will work on in order to learn and develpo my FPGA programming skills. the language of chice in these projects will mainly be VHDL but I may or may not use other HDLs. The FPGA board I will be using on order to implement my designs is the ZedBoard Zynq-7000 ARM/FPGA SoC Development Board and the provided software i will be using to compile, simulate, synthesize and implement is the vivado design suite.
