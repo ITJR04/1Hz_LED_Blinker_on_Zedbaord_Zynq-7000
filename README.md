@@ -1,4 +1,3 @@
-# Zedbaord 1Hz LED BLinker using VHDL
 # 🔴 1Hz LED Blinker on ZedBoard Zynq-7000
 
 This project implements a simple 1Hz LED blinker in VHDL on the ZedBoard Zynq-7000. It uses a 100 MHz clock input to toggle **LD0 (pin T22)** once every second using an **enable-based counter** design (not a direct clock divider). This project is ideal for FPGA beginners working on hardware-only PL (Programmable Logic) designs.
