@@ -58,7 +58,7 @@ If **SW5 (H18)** is pressed:
 
 ---
 
-## 📄 Pin Constraints (zedboard_1hz.xdc)
+## 📄 Pin Constraints (zedboard_1Hz.xdc)
 
 ```xdc
 set_property PACKAGE_PIN T22 [get_ports LED]
