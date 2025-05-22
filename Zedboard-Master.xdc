@@ -1,4 +1,4 @@
-# Clock Input - BTN_CLK: 100 MHz oscillator on ZedBoard
+# Clock Input: 100 MHz oscillator on ZedBoard
 set_property PACKAGE_PIN Y9 [get_ports CLK]
 set_property IOSTANDARD LVCMOS33 [get_ports CLK]
 
